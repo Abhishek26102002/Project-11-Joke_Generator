@@ -1,0 +1,23 @@
+body {
+    color: #fff;
+    background-color: #342439;
+    ;
+}
+
+#container {
+    flex-direction: column;
+    margin-left: 3%;
+    margin-top: 2%;
+    /* border: 1px solid red; */
+    padding: 8px;
+    width: 70%;
+}
+
+#imgx {
+    display: block;
+    position: absolute;
+    bottom: 5%;
+    width: 30%;
+    height: 300px;
+    margin-top: 50px;
+}
